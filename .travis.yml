@@ -1,7 +1,7 @@
 language: node_js
 node_js:
-  - '10'
-  - '8'
-  - '6'
+  - "10"
+  - "8"
+  - "node"
 after_script:
-  - './node_modules/.bin/nyc report --reporter=text-lcov > coverage.lcov && ./node_modules/.bin/codecov'
+  - "./node_modules/.bin/nyc report --reporter=text-lcov > coverage.lcov && ./node_modules/.bin/codecov"
