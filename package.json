@@ -1,6 +1,6 @@
 {
 	"name": "unwrap-refs",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Unwrap { $ref } in object",
 	"license": "MIT",
 	"repository": "sergeysova/unwrap-refs",
