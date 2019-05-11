@@ -1,6 +1,7 @@
 module.exports = {
-	printWidth: 80,
-	semi: false,
-	trailingComma: "all",
-	arrowParens: "always",
+  printWidth: 80,
+  semi: false,
+  trailingComma: "all",
+  arrowParens: "always",
+  useTabs: false,
 }
